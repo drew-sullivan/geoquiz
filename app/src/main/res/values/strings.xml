@@ -9,10 +9,13 @@
     <string name="incorrect_toast">Incorrect.</string>
     <string name="next_button_desc">Next Button</string>
     <string name="previous_button_desc">Previous Button</string>
-
     <string name="question_math">2 + 2 = 4?</string>
     <string name="question_geography">Earth is flat?</string>
     <string name="question_history">The Roman Empire lasted fewer than 2,000,000 years</string>
     <string name="question_politics">A dog can legally run for governor or California</string>
     <string name="question_CS">O(n) is faster than O(n!)</string>
+    <string name="warning_text">Are you sure you want to do that?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
