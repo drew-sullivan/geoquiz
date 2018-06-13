@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text_view">Canberra is the capital of Australia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect.</string>
+    <string name="next_button_desc">Next Button</string>
+    <string name="previous_button_desc">Previous Button</string>
+
+    <string name="question_math">2 + 2 = 4?</string>
+    <string name="question_geography">Earth is flat?</string>
+    <string name="question_history">The Roman Empire lasted fewer than 2,000,000 years</string>
+    <string name="question_politics">A dog can legally run for governor or California</string>
+    <string name="question_CS">O(n) is faster than O(n!)</string>
+</resources>
